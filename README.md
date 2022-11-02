@@ -1,1 +1,1 @@
-# rbty.github.io/SiriusX/index.html
+# rbty.github.io/SiriusX/
